@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+
+.anketa-block{
+    border: 1px solid black;
+    background: #fdd9b7;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
